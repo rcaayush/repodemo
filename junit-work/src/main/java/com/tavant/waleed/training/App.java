@@ -10,7 +10,7 @@ public class App {
 	}
 
 	boolean checkForPalindrome(String value) {
-    	if(value.equals("madams"))
+    	if(value.equals("sir"))
     		return true;
     	else
     		return false;
