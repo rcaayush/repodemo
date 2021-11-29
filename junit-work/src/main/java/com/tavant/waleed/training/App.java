@@ -2,6 +2,7 @@ package com.tavant.waleed.training;
 
 public class App {
 	public static void main(String[] args) {
+		int b;
 //       System.out.println(new App().divide(12, 0));
 	}
 
